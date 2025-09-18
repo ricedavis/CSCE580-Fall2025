@@ -18,7 +18,9 @@ The labs are structured to integrate **technical model building** with **ethical
 
 1. **Lab 1:** Exploratory data analysis, decision tree classifiers, hyperparameter tuning, and reflection on model evaluation.  
 2. **Lab 2:** Logistic regression, stochastic gradient descent, subgroup analysis, and consideration of error types between sensitive groups.  
-3. **Lab 3:** Bias-variance decomposition using synthetic and real-world data, ensemble models, and analysis of the impact of data quantity on model error.  
+3. **Lab 3:** Bias-variance decomposition using synthetic and real-world data, ensemble models, and analysis of the impact of data quantity on model error.
+
+All work can be found in the 'labnotebooks' directory.
 
 ---
 
@@ -31,8 +33,6 @@ The labs are structured to integrate **technical model building** with **ethical
 - **Lab 3:** Polynomial Regression, Bias-Variance Decomposition, Ensemble Methods  
 
 **Audience:** Upper-level undergraduate students in a machine learning course.  
-
-**Difficulty:** Moderate. Each lab typically takes **2–3 hours**, but can be adjusted depending on course needs.  
 
 ---
 
@@ -68,14 +68,6 @@ The labs are structured to integrate **technical model building** with **ethical
 - Lab 1 assumes knowledge of decision trees.  
 - Lab 2 assumes knowledge of logistic regression.  
 - Lab 3 assumes understanding of polynomial regression and bias-variance concepts.  
-
----
-
-## Variants
-
-- Not all tasks in the labs need to be graded.  
-- Labs can be **simplified** by omitting tasks such as SGD implementation.  
-- Different models can replace the ones provided without impacting the discussion on evaluation and subgroup analysis.  
 
 ---
 
