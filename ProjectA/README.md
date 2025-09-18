@@ -47,9 +47,7 @@ All work can be found in the 'labnotebooks' directory.
 
 ## Weaknesses
 
-- Covering both **data nuances** and **technical modeling** may be challenging in fast-paced courses.  
-- Reflection exercises are recommended to help students synthesize insights from the labs.  
-- Some advanced tasks (e.g., SGD implementation) may need to be omitted for courses with limited time.  
+- Covering both **data nuances** and **technical modeling** may be challenging in fast-paced courses.   
 
 ---
 
