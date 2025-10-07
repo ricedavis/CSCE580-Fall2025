@@ -1,0 +1,69 @@
+{
+  "recipe_name": "carrot-apple-pancakes",
+  "food_role": ["Breakfast", "Snack"],
+  "data_provenance": {
+    "source_url": "placeholder",
+    "last_system_access": "2025-10-07"
+  },
+  "macronutrients": {},
+  "ingredients": [
+    {"name": "carrot", "quantity": {"measure": "1", "unit": "large"}, "allergies": {"id": "", "category": "", "ref": "", "details": ""}, "alternative": "", "quality_characteristic": "", "image": ""},
+    {"name": "apple", "quantity": {"measure": "1", "unit": ""}, "allergies": {"id": "", "category": "", "ref": "", "details": ""}, "alternative": "", "quality_characteristic": "", "image": ""},
+    {"name": "sugar", "quantity": {"measure": "1", "unit": "tbsp"}, "allergies": {"id": "", "category": "", "ref": "", "details": ""}, "alternative": "", "quality_characteristic": "", "image": ""},
+    {"name": "raisins", "quantity": {"measure": "handful", "unit": ""}, "allergies": {"id": "", "category": "sulfites", "ref": "", "details": ""}, "alternative": "prunes", "quality_characteristic": "", "image": ""},
+    {"name": "semolina", "quantity": {"measure": "4", "unit": "tbsp"}, "allergies": {"id": "", "category": "", "ref": "", "details": ""}, "alternative": "oat flour", "quality_characteristic": "heaping", "image": ""},
+    {"name": "kefir", "quantity": {"measure": "3", "unit": "tbsp"}, "allergies": {"id": "", "category": "dairy", "ref": "", "details": ""}, "alternative": "unsweetened yogurt or buttermilk", "quality_characteristic": "", "image": ""},
+    {"name": "egg", "quantity": {"measure": "1", "unit": ""}, "allergies": {"id": "", "category": "eggs", "ref": "", "details": ""}, "alternative": "", "quality_characteristic": "", "image": ""},
+    {"name": "olive oil", "quantity": {"measure": "as needed", "unit": ""}, "allergies": {"id": "", "category": "", "ref": "", "details": ""}, "alternative": "", "quality_characteristic": "", "image": ""}
+  ],
+  "hasDairy": true,
+  "hasMeat": false,
+  "hasNuts": false,
+  "prep_time": "15 minutes",
+  "cook_time": "20 minutes",
+  "serves": "2-3",
+  "instructions": [
+    {
+      "original_text": "Peel the carrot.",
+      "input_condition": ["have_carrot"],
+      "task": [{"action_name": "Peel the carrot", "output_quality": ["Carrot peeled"], "background_knowledge": {"tool": ["peeler"], "failure": ["Carrot not peeled properly"]}}],
+      "output_condition": ["have_peeled_carrot"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Grate the carrot and apple.",
+      "input_condition": ["have_peeled_carrot", "have_apple"],
+      "task": [{"action_name": "Grate carrot and apple", "output_quality": ["Evenly grated"], "background_knowledge": {"tool": ["grater", "food processor"], "failure": ["Too coarse or fine"]}}],
+      "output_condition": ["have_grated_ingredients"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Mix all ingredients in a bowl.",
+      "input_condition": ["have_grated_ingredients", "have_semolina", "have_egg", "have_kefir", "have_sugar", "have_raisins"],
+      "task": [{"action_name": "Combine ingredients", "output_quality": ["Well-mixed batter"], "background_knowledge": {"tool": ["spoon", "bowl"], "failure": ["Ingredients not mixed evenly"]}}],
+      "output_condition": ["have_batter"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Let the batter rest for 30 minutes.",
+      "input_condition": ["have_batter"],
+      "task": [{"action_name": "Rest batter", "output_quality": ["Absorbs liquid"], "background_knowledge": {"tool": [], "failure": ["Too runny or dry"]}}],
+      "output_condition": ["have_rested_batter"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Fry pancakes in lightly oiled pan until golden brown on both sides.",
+      "input_condition": ["have_rested_batter", "have_olive_oil", "have_pan"],
+      "task": [{"action_name": "Fry pancakes", "output_quality": ["Golden brown, cooked through"], "background_knowledge": {"tool": ["pan", "spatula"], "failure": ["Undercooked or broken pancakes"]}}],
+      "output_condition": ["have_cooked_pancakes"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Serve and enjoy.",
+      "input_condition": ["have_cooked_pancakes"],
+      "task": [{"action_name": "Serve pancakes", "output_quality": ["Ready to eat"], "background_knowledge": {"tool": [], "failure": ["Dropped or messy presentation"]}}],
+      "output_condition": ["recipe_complete"],
+      "modality": {"image": [], "video": ""}
+    }
+  ]
+}
