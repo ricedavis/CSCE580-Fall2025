@@ -1,0 +1,68 @@
+{
+  "ingredients": [
+    {
+      "name": "carrot",
+      "quantity": {"measure": "1", "unit": "large"},
+      "allergies": {"id": "", "category": "", "ref": "", "details": ""},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "apple",
+      "quantity": {"measure": "1", "unit": ""},
+      "allergies": {"id": "", "category": "", "ref": "", "details": ""},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "sugar",
+      "quantity": {"measure": "0.5-1", "unit": "tbsp"},
+      "allergies": {"id": "", "category": "", "ref": "", "details": ""},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "raisins or prunes",
+      "quantity": {"measure": "a handful", "unit": ""},
+      "allergies": {"id": "", "category": "", "ref": "", "details": ""},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "semolina",
+      "quantity": {"measure": "4", "unit": "tbsp"},
+      "allergies": {"id": "", "category": "", "ref": "", "details": ""},
+      "alternative": "oat flour",
+      "quality_characteristic": "heaping",
+      "image": ""
+    },
+    {
+      "name": "kefir or unsweetened yogurt/buttermilk",
+      "quantity": {"measure": "3", "unit": "tbsp"},
+      "allergies": {"id": "", "category": "", "ref": "", "details": ""},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "egg",
+      "quantity": {"measure": "1", "unit": ""},
+      "allergies": {"id": "", "category": ["eggs"], "ref": [""], "details": ""},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "oil for frying",
+      "quantity": {"measure": "", "unit": ""},
+      "allergies": {"id": "", "category": "", "ref": "", "details": ""},
+      "alternative": "olive oil",
+      "quality_characteristic": "",
+      "image": ""
+    }
+  ]
+}
