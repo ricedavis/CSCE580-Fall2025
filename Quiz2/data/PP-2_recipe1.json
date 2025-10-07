@@ -1,0 +1,53 @@
+{
+  "instructions": [
+    {
+      "original_text": "Peel the carrot.",
+      "input_condition": ["have_carrot"],
+      "task": [{"action_name": "Peel the carrot", "output_quality": [], "background_knowledge": {"tool": [], "failure": []}}],
+      "output_condition": ["have_peeled_carrot"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Grate the carrot or blend it.",
+      "input_condition": ["have_peeled_carrot"],
+      "task": [{"action_name": "Grate or blend carrot", "output_quality": ["finely grated or blended"], "background_knowledge": {"tool": ["grater or blender"], "failure": ["carrot not grated"]}}],
+      "output_condition": ["have_grated_carrot"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Grate or blend the apple.",
+      "input_condition": ["have_apple"],
+      "task": [{"action_name": "Grate or blend apple", "output_quality": ["finely grated or blended"], "background_knowledge": {"tool": ["grater or blender"], "failure": ["apple not grated"]}}],
+      "output_condition": ["have_grated_apple"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Combine all ingredients in a large bowl.",
+      "input_condition": ["have_grated_carrot", "have_grated_apple", "have_semolina", "have_egg", "have_kefir", "have_sugar", "have_raisins"],
+      "task": [{"action_name": "Mix ingredients", "output_quality": ["well combined mixture"], "background_knowledge": {"tool": ["mixing bowl"], "failure": ["ingredients not mixed"]}}],
+      "output_condition": ["have_batter"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Let the batter rest for 30 minutes. Drain excess liquid if needed.",
+      "input_condition": ["have_batter"],
+      "task": [{"action_name": "Rest the batter", "output_quality": ["batter consistency adjusted"], "background_knowledge": {"tool": ["sieve if needed"], "failure": ["too watery batter"]}}],
+      "output_condition": ["have_resting_batter"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Grease the frying pan and cook pancakes until golden brown on both sides.",
+      "input_condition": ["have_resting_batter", "have_oil"],
+      "task": [{"action_name": "Fry pancakes", "output_quality": ["golden brown, hold shape"], "background_knowledge": {"tool": ["frying pan", "spatula"], "failure": ["pancakes broke"]}}],
+      "output_condition": ["have_cooked_pancakes"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Serve and enjoy!",
+      "input_condition": ["have_cooked_pancakes"],
+      "task": [{"action_name": "Serve pancakes", "output_quality": ["ready to eat"], "background_knowledge": {"tool": [], "failure": []}}],
+      "output_condition": ["recipe_complete"],
+      "modality": {"image": [], "video": ""}
+    }
+  ]
+}
