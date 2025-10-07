@@ -1,0 +1,46 @@
+{
+  "instructions": [
+    {
+      "original_text": "Wash the apples and cut off the lid.",
+      "input_condition": ["have_apples"],
+      "task": [{"action_name": "Wash apples and cut lid", "output_quality": ["lid removed"], "background_knowledge": {"tool": ["knife"], "failure": ["lid not cut properly"]}}],
+      "output_condition": ["have_prepared_apples"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Scoop out the cores carefully.",
+      "input_condition": ["have_prepared_apples"],
+      "task": [{"action_name": "Scoop cores", "output_quality": ["apple walls intact"], "background_knowledge": {"tool": ["small spoon"], "failure": ["hole through apple"]}}],
+      "output_condition": ["have_cored_apples"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Mix cottage cheese, sugar, and cinnamon.",
+      "input_condition": ["have_cottage_cheese", "have_sugar", "have_cinnamon"],
+      "task": [{"action_name": "Mix filling", "output_quality": ["smooth mixture"], "background_knowledge": {"tool": ["bowl", "spoon"], "failure": ["lumpy mixture"]}}],
+      "output_condition": ["have_filling"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Fill apples with mixture and cover with lid.",
+      "input_condition": ["have_cored_apples", "have_filling"],
+      "task": [{"action_name": "Fill apples", "output_quality": ["filled apples"], "background_knowledge": {"tool": ["spoon"], "failure": ["filling spills"]}}],
+      "output_condition": ["have_filled_apples"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Place apples on baking tray and bake at 200°C for 30–40 minutes.",
+      "input_condition": ["have_filled_apples"],
+      "task": [{"action_name": "Bake apples", "output_quality": ["soft apples"], "background_knowledge": {"tool": ["oven"], "failure": ["underbaked or burnt"]}}],
+      "output_condition": ["have_baked_apples"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Serve hot or cooled, optionally with powdered sugar or whipped cream.",
+      "input_condition": ["have_baked_apples"],
+      "task": [{"action_name": "Serve apples", "output_quality": ["ready to eat"], "background_knowledge": {"tool": [], "failure": []}}],
+      "output_condition": ["recipe_complete"],
+      "modality": {"image": [], "video": ""}
+    }
+  ]
+}
