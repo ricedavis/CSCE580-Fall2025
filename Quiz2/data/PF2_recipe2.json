@@ -1,0 +1,58 @@
+{
+  "recipe_name": "baked-apples-cottage-cheese-cinnamon",
+  "food_role": ["Dessert", "Snack"],
+  "data_provenance": {
+    "source_url": "placeholder",
+    "last_system_access": "2025-10-07"
+  },
+  "macronutrients": {},
+  "ingredients": [
+    {"name": "apple", "quantity": {"measure": "4", "unit": ""}, "allergies": {"id": "", "category": "", "ref": "", "details": ""}, "alternative": "", "quality_characteristic": "firm, medium size", "image": ""},
+    {"name": "cottage cheese", "quantity": {"measure": "150", "unit": "g"}, "allergies": {"id": "", "category": "dairy", "ref": "", "details": ""}, "alternative": "", "quality_characteristic": "smooth", "image": ""},
+    {"name": "sugar", "quantity": {"measure": "2", "unit": "tbsp"}, "allergies": {"id": "", "category": "", "ref": "", "details": ""}, "alternative": "", "quality_characteristic": "", "image": ""},
+    {"name": "cinnamon", "quantity": {"measure": "0.5", "unit": "tsp"}, "allergies": {"id": "", "category": "", "ref": "", "details": ""}, "alternative": "", "quality_characteristic": "", "image": ""}
+  ],
+  "hasDairy": true,
+  "hasMeat": false,
+  "hasNuts": false,
+  "prep_time": "15 minutes",
+  "cook_time": "35 minutes",
+  "serves": "4",
+  "instructions": [
+    {
+      "original_text": "Wash apples, cut off tops, and carefully remove cores while keeping walls thick.",
+      "input_condition": ["have_apples"],
+      "task": [{"action_name": "Prepare apples", "output_quality": ["Thick-walled hollowed apples"], "background_knowledge": {"tool": ["knife", "small spoon"], "failure": ["Holes too deep, walls too thin"]}}],
+      "output_condition": ["have_hollowed_apples"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Combine cottage cheese, sugar, and cinnamon in a bowl until smooth.",
+      "input_condition": ["have_cottage_cheese", "have_sugar", "have_cinnamon"],
+      "task": [{"action_name": "Mix filling", "output_quality": ["Lump-free cheese mixture"], "background_knowledge": {"tool": ["bowl", "spoon"], "failure": ["Lumpy mixture"]}}],
+      "output_condition": ["have_filling"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Stuff apples with cheese mixture and replace the lids.",
+      "input_condition": ["have_hollowed_apples", "have_filling"],
+      "task": [{"action_name": "Fill apples", "output_quality": ["Evenly filled apples with lids"], "background_knowledge": {"tool": ["spoon"], "failure": ["Overfilled or lid missing"]}}],
+      "output_condition": ["have_filled_apples"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Place apples on baking tray with parchment paper and bake at 200°C for 30–40 minutes until soft.",
+      "input_condition": ["have_filled_apples", "have_baking_tray", "have_oven"],
+      "task": [{"action_name": "Bake", "output_quality": ["Apples tender and evenly cooked"], "background_knowledge": {"tool": ["oven", "parchment paper"], "failure": ["Undercooked or burnt"]}}],
+      "output_condition": ["have_baked_apples"],
+      "modality": {"image": [], "video": ""}
+    },
+    {
+      "original_text": "Serve baked apples hot or cooled, optionally with powdered sugar or whipped cream.",
+      "input_condition": ["have_baked_apples"],
+      "task": [{"action_name": "Serve", "output_quality": ["Ready-to-eat dessert"], "background_knowledge": {"tool": [], "failure": ["Toppings melt on hot apples"]}}],
+      "output_condition": ["recipe_complete"],
+      "modality": {"image": [], "video": ""}
+    }
+  ]
+}
