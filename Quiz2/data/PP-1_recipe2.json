@@ -1,0 +1,36 @@
+{
+  "ingredients": [
+    {
+      "name": "apples",
+      "quantity": {"measure": "4", "unit": ""},
+      "allergies": {"id": "", "category": "", "ref": "", "details": ""},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "cottage cheese",
+      "quantity": {"measure": "150", "unit": "g"},
+      "allergies": {"id": "", "category": ["dairy"], "ref": [""], "details": ""},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "sugar",
+      "quantity": {"measure": "2", "unit": "tbsp"},
+      "allergies": {"id": "", "category": "", "ref": "", "details": ""},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    },
+    {
+      "name": "cinnamon",
+      "quantity": {"measure": "0.5", "unit": "tsp"},
+      "allergies": {"id": "", "category": "", "ref": "", "details": ""},
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": ""
+    }
+  ]
+}
