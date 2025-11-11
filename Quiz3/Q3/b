@@ -1,0 +1,17 @@
+Psuedocode for Arc consistency:
+
+1. Start with all variables and their possible values (domains).
+
+2. Make a list of all constraints between pairs of variables
+   (for example: 2O = R + 10c1, 2W + c1 = U + 10c2, etc.).
+
+3. Repeat until no more changes occur:
+      For each pair of related variables (X, Y):
+          Look at every value of X.
+          If there is no value of Y that satisfies the constraint between X and Y,
+             remove that value from X’s domain.
+          If any value was removed,
+             re-check all constraints connected to X again.
+
+4. Stop when no domains can be reduced further
+   (the CSP is now "arc consistent").
