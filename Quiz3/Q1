@@ -1,1 +1,14 @@
+a) - estimates cost-to-goal, meaning a heuristic gives an estimate of the minimum remaining cost from node n to a goal.
+   - Is optimistic, it may underestimate but never overestimates.
+   - ensures optimality.
+
+b) - Yes it is admissable, but not informative because it is the weakest possible heuristic.
+   - A heuristic h(n) is admissible if it never overestimates the true cost (n) to reach the goal (which is true for h = 0).
+
+c) - It might be admissable but only if h(n) <= h*(n)
+   - Usually no though because it overestimates near the goal.
+
+d) - h = min(h1,h2,h3) is admissable because the minimum of several heuristics never overestimates if at least one of them doesnt overestimate.
+   - h = max(h1,h2,h3) is not guaranteed to be admissable because we only know that one is admissable, meaning the others may overestimate. The
+     max could pick a non admissable value.
 
