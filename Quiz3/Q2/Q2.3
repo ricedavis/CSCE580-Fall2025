@@ -9,3 +9,21 @@ After running my DFS algorithm on all 6 test cases from the tester program, here
 
 The program was able to efficiently solve every test case except for 2M, 3C. This was an impossible case with no valid moves.
 The time to solve was very small for each test case, meaning the DFS algorithm was very efficient.
+The code used to test was simply tacked onto my original DFS python file at the end and I ran it locally:
+
+def test(missionaries_count, cannibals_count):
+    test_agent = MCAgent()
+    start_time = time.time()
+    result = test_agent.solve(missionaries_count, cannibals_count)
+    elapsed = time.time() - start_time
+    print(f"{missionaries_count}M, {cannibals_count}C -> {result} | Time: {elapsed:.4f}s")
+
+
+if __name__ == "__main__":
+    print("Running Missionaries & Cannibals DFS tests:\n")
+    test(1, 1)  # Expected: [(1,1)]
+    test(2, 2)
+    test(3, 3)
+    test(4, 3)
+    test(5, 3)
+    test(2, 3)  # Expected: impossible → []
