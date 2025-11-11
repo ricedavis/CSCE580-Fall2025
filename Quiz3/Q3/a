@@ -1,3 +1,6 @@
+Note: C1, C2 and C3 are the carry variables,
+      AllDifferent means all the letter variables must be different.
+
 **Variables**   : T, W, O, F, U, R, c1, c2, c3                                                             
 **Domains**     : Digits 0–9 (letters), {0,1} (carries), T≠0, F≠0                                          
 **Constraints** : AllDifferent(T,W,O,F,U,R); 2O = R + 10c1; 2W + c1 = U + 10c2; 2T + c2 = O + 10c3; F = c3
