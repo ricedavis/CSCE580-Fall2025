@@ -1,0 +1,11 @@
+After running my DFS algorithm on all 6 test cases from the tester program, here are the results:
+
+1M, 1C -> [(1, 1)] | Time: 0.0000s
+2M, 2C -> [(1, 1), (1, 0), (2, 0), (0, 1), (0, 2)] | Time: 0.0001s
+3M, 3C -> [(1, 1), (1, 0), (0, 2), (0, 1), (2, 0), (1, 1), (2, 0), (0, 1), (0, 2), (0, 1), (0, 2)] | Time: 0.0001s
+4M, 3C -> [(1, 1), (0, 1), (1, 1), (1, 0), (1, 1), (0, 1), (1, 1), (1, 0), (1, 1), (0, 1), (1, 1)] | Time: 0.0001s
+5M, 3C -> [(1, 1), (0, 1), (1, 1), (0, 1), (1, 1), (1, 0), (1, 1), (0, 1), (1, 1), (1, 0), (1, 1), (0, 1), (1, 1)] | Time: 0.0001s
+2M, 3C -> [] | Time: 0.0001s
+
+The program was able to efficiently solve every test case except for 2M, 3C. This was an impossible case with no valid moves.
+The time to solve was very small for each test case, meaning the DFS algorithm was very efficient.
