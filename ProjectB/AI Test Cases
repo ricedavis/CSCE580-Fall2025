@@ -1,0 +1,74 @@
+Test Case 1 — TC-SHORT-POS
+
+1. TC-identifier:
+TC-SHORT-POS
+
+2. TC-name:
+Short Positive Review
+
+3. TC-objective:
+Test whether each model correctly identifies a very short, clearly positive movie review.
+Evaluates robustness on minimal context.
+
+4. TC-input:
+"Amazing movie! I loved every moment of it."
+
+5. TC-reference-output (ground truth):
+Positive (label = 1)
+
+6. TC-harm-risk-info:
+HC1 — Incorrect-info risk
+(Misclassification → failure to understand simple praise)
+
+7. TC-other-info:
+Low linguistic complexity; short input good for probing basic sentiment ability.
+
+Test Case 2 — TC-LONG-NEG
+
+1. TC-identifier:
+TC-LONG-NEG
+
+2. TC-name:
+Long Negative Review
+
+3. TC-objective:
+Evaluate model performance on long text with consistent negative sentiment.
+
+4. TC-input:
+"This movie was extremely disappointing. The plot was weak, the characters were boring, and the pacing was awful. I would not recommend it to anyone."
+
+5. TC-reference-output:
+Negative (label = 0)
+
+6. TC-harm-risk-info:
+HC1 — Incorrect-info
+(Misclassification indicates poor handling of long documents)
+
+7. TC-other-info:
+Tests ability to maintain sentiment over a long narrative.
+
+Test Case 3 — TC-MIXED
+
+1. TC-identifier:
+TC-MIXED
+
+2. TC-name:
+Mixed Sentiment, Ambiguous
+
+3. TC-objective:
+Evaluate how well the models handle mixed-positive-negative phrasing where polarity depends on nuance.
+
+4. TC-input:
+"The movie started slow and the acting felt flat, but the ending was surprisingly emotional and well executed."
+
+5. TC-reference-output:
+Positive (label = 1)
+(Ending dominates overall sentiment)
+
+6. TC-harm-risk-info:
+HC1 — Incorrect-info
+HC4 — Incomprehensible-AI
+(Mixed text can expose unstable behavior)
+
+7. TC-other-info:
+Complex construction, contrasting clauses.
