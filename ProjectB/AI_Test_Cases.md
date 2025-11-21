@@ -1,4 +1,4 @@
-Test Case 1 — TC-SHORT-POS
+# Test Case 1 — TC-SHORT-POS
 
 1. TC-identifier:
 TC-SHORT-POS
@@ -23,7 +23,7 @@ HC1 — Incorrect-info risk
 7. TC-other-info:
 Low linguistic complexity; short input good for probing basic sentiment ability.
 
-Test Case 2 — TC-LONG-NEG
+# Test Case 2 — TC-LONG-NEG
 
 1. TC-identifier:
 TC-LONG-NEG
@@ -47,7 +47,7 @@ HC1 — Incorrect-info
 7. TC-other-info:
 Tests ability to maintain sentiment over a long narrative.
 
-Test Case 3 — TC-MIXED
+# Test Case 3 — TC-MIXED
 
 1. TC-identifier:
 TC-MIXED
