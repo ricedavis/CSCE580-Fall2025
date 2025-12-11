@@ -2,19 +2,20 @@
 
 This repository contains all code, data, and written responses for the CSCE 580 final project, which focuses on building an AI-based attendance audit system from handwritten class attendance sheets.
 
----
 
 ## Repository Structure
 
+---
 ├── code/
 │ ├── master_csv.py
 │ └── analysis.ipynb
 ├── data/
 │ └── attendance_master.csv
+| └── json_files
 ├── Q1a_final.pdf
 ├── Q2_Responses.pdf
 └── README.md
-
+---
 
 ## Contents Overview
 
@@ -97,12 +98,4 @@ The project highlights the integration of LLM-powered perception, Python-based d
 4. **Use `attendance_master.csv`** as the clean, final dataset for any additional analysis.
 
 ---
-
-If you would like enhancements such as:
-- A “How to Reproduce” section  
-- Installation or environment setup  
-- A license section  
-- Shields.io badges  
-
-Just let me know!
 
