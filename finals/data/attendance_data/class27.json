@@ -1,0 +1,76 @@
+{
+  "class_number": 27,
+  "date": "20 Nov 2025",
+  "students": [
+    {
+      "serial_number": 1,
+      "full_name": "Dustin McDowell",
+      "username": "dm99"
+    },
+    {
+      "serial_number": 2,
+      "full_name": "Nathan Nicodin",
+      "username": "nnicodin"
+    },
+    {
+      "serial_number": 3,
+      "full_name": "Trevor La",
+      "username": "h26"
+    },
+    {
+      "serial_number": 4,
+      "full_name": "Jiaxuan Zhang",
+      "username": "jiaxuanz"
+    },
+    {
+      "serial_number": 5,
+      "full_name": "Charlotte Baker",
+      "username": "crb27"
+    },
+    {
+      "serial_number": 6,
+      "full_name": "Eli Hatcher",
+      "username": "kh155"
+    },
+    {
+      "serial_number": 7,
+      "full_name": "Yamuna Bobbala",
+      "username": "ybobbala"
+    },
+    {
+      "serial_number": 8,
+      "full_name": "Luke Peter",
+      "username": "mp79"
+    },
+    {
+      "serial_number": 9,
+      "full_name": "Drew Dabe",
+      "username": "ddabe"
+    },
+    {
+      "serial_number": 10,
+      "full_name": "Cody Miller",
+      "username": "codyam"
+    },
+    {
+      "serial_number": 11,
+      "full_name": "Aashish Jayapursam",
+      "username": "aashish"
+    },
+    {
+      "serial_number": 12,
+      "full_name": "Sai Teja",
+      "username": "spaladi"
+    },
+    {
+      "serial_number": 13,
+      "full_name": "Lea Frost",
+      "username": "lkfrost"
+    },
+    {
+      "serial_number": 14,
+      "full_name": "Tyler Korth",
+      "username": "tkorth"
+    }
+  ]
+}

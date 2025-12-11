@@ -1,0 +1,211 @@
+{
+  "class_number": 24,
+  "date": "2025-11-11",
+  "students": [
+    {
+      "serial_number": 1,
+      "full_name": "Dustin McDowell",
+      "username": "dm99"
+    },
+    {
+      "serial_number": 2,
+      "full_name": "Kyle Hix",
+      "username": "khix"
+    },
+    {
+      "serial_number": 3,
+      "full_name": "Evan Fundeburg",
+      "username": "ewf"
+    },
+    {
+      "serial_number": 4,
+      "full_name": "Trevor La",
+      "username": "tl26"
+    },
+    {
+      "serial_number": 5,
+      "full_name": "Will Thacher",
+      "username": "wthatcher"
+    },
+    {
+      "serial_number": 6,
+      "full_name": "Joseph Vann",
+      "username": "jrvann"
+    },
+    {
+      "serial_number": 7,
+      "full_name": "Andrew Lim",
+      "username": "aclim"
+    },
+    {
+      "serial_number": 8,
+      "full_name": "Thomas Davis",
+      "username": "trd7"
+    },
+    {
+      "serial_number": 9,
+      "full_name": "Nathan Nicodin",
+      "username": "nnicodin"
+    },
+    {
+      "serial_number": 10,
+      "full_name": "Devar Acwenell",
+      "username": "devarc"
+    },
+    {
+      "serial_number": 11,
+      "full_name": "Trenton Braley",
+      "username": "tbraley"
+    },
+    {
+      "serial_number": 12,
+      "full_name": "Divyanshanu Swain",
+      "username": "swaindev"
+    },
+    {
+      "serial_number": 13,
+      "full_name": "Ash Patel",
+      "username": "ashpat"
+    },
+    {
+      "serial_number": 14,
+      "full_name": "Joshua Arego",
+      "username": "jarego"
+    },
+    {
+      "serial_number": 15,
+      "full_name": "Ash Jacobson",
+      "username": "ashjj"
+    },
+    {
+      "serial_number": 16,
+      "full_name": "Charlotte Baker",
+      "username": "crb27"
+    },
+    {
+      "serial_number": 17,
+      "full_name": "Suprawee Pongpeeradeach",
+      "username": "suprawee"
+    },
+    {
+      "serial_number": 18,
+      "full_name": "Lee Frost",
+      "username": "lkfrost"
+    },
+    {
+      "serial_number": 19,
+      "full_name": "Sara Muthuselvam",
+      "username": "muthuses"
+    },
+    {
+      "serial_number": 20,
+      "full_name": "Ben Shillington",
+      "username": "bdshilli"
+    },
+    {
+      "serial_number": 21,
+      "full_name": "Justin Mateo",
+      "username": "jmateo03"
+    },
+    {
+      "serial_number": 22,
+      "full_name": "Grace Wohlwinder",
+      "username": "wohlwins"
+    },
+    {
+      "serial_number": 23,
+      "full_name": "Cody Miller",
+      "username": "codyam"
+    },
+    {
+      "serial_number": 24,
+      "full_name": "Jiaxuan Zhang",
+      "username": "jiaxuanz"
+    },
+    {
+      "serial_number": 25,
+      "full_name": "Jacob Robertson",
+      "username": "jmr40"
+    },
+    {
+      "serial_number": 26,
+      "full_name": "Gavin Orme",
+      "username": "gormac"
+    },
+    {
+      "serial_number": 27,
+      "full_name": "Patrick Bailey",
+      "username": "pab6"
+    },
+    {
+      "serial_number": 28,
+      "full_name": "Shruti Jadhav",
+      "username": "ssjadhav"
+    },
+    {
+      "serial_number": 29,
+      "full_name": "Luke Peter",
+      "username": "mp79"
+    },
+    {
+      "serial_number": 30,
+      "full_name": "Aashish Jayaprasan",
+      "username": "aashish"
+    },
+    {
+      "serial_number": 31,
+      "full_name": "Eli Hatcher",
+      "username": "kh155"
+    },
+    {
+      "serial_number": 32,
+      "full_name": "David Dinh",
+      "username": "dd26"
+    },
+    {
+      "serial_number": 33,
+      "full_name": "Meara Cox",
+      "username": "mccox"
+    },
+    {
+      "serial_number": 34,
+      "full_name": "Ardoine Docteur",
+      "username": "adocteur"
+    },
+    {
+      "serial_number": 35,
+      "full_name": "Sai Deja",
+      "username": "spaladi"
+    },
+    {
+      "serial_number": 36,
+      "full_name": "Steven Dihdl",
+      "username": "sdihdl"
+    },
+    {
+      "serial_number": 37,
+      "full_name": "Lily Lamb",
+      "username": "lrlamb"
+    },
+    {
+      "serial_number": 38,
+      "full_name": "Pedro Fischetti",
+      "username": "pedrof"
+    },
+    {
+      "serial_number": 39,
+      "full_name": "Tyr Kareth",
+      "username": "tkareth"
+    },
+    {
+      "serial_number": 40,
+      "full_name": "Drew Dabe",
+      "username": "ddabe"
+    },
+    {
+      "serial_number": 41,
+      "full_name": "Donovan Williams",
+      "username": "dw58"
+    }
+  ]
+}
