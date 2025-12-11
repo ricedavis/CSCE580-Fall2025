@@ -53,7 +53,10 @@ Each row corresponds to a single student entry, including:
 - Class date  
 - Serial number  
 - Full name  
-- Username  
+- Username
+
+#### 'json_files'
+A directory with all JSON files that were processed by the GPT text extractor from the original JPG images.
 
 This file is the direct output of `master_csv.py` and serves as the input to `analysis.ipynb`.
 
