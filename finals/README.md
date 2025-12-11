@@ -6,12 +6,11 @@ This repository contains all code, data, and written responses for the CSCE 580 
 
 ## Repository Structure
 
-.
 ├── code/
-│   ├── master_csv.py
-│   └── analysis.ipynb
+│ ├── master_csv.py
+│ └── analysis.ipynb
 ├── data/
-│   └── attendance_master.csv
+│ └── attendance_master.csv
 ├── Q1a_final.pdf
 ├── Q2_Responses.pdf
 └── README.md
