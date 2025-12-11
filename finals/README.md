@@ -6,16 +6,10 @@ This repository contains all code, data, and written responses for the CSCE 580 
 ## Repository Structure
 
 ---
-.
-  code/
-    master_csv.py
-    analysis.ipynb
-  data/
-    attendance_master.csv
-    json_files
-  Q1a_final.pdf
-  Q2_Responses.pdf
-  README.md
+Code directory has master_csv.py and analysis.ipynb.
+Data directory has attendance_master.csv and attendance_data.csv.
+Q1a_final is a pdf with Q1a answers.
+Q2_Responses is a pdf with Q2 answers.
 ---
 
 ## Contents Overview
@@ -56,7 +50,7 @@ Each row corresponds to a single student entry, including:
 - Full name  
 - Username
 
-#### 'json_files'
+#### 'attendance_data'
 A directory with all JSON files that were processed by the GPT text extractor from the original JPG images.
 
 This file is the direct output of `master_csv.py` and serves as the input to `analysis.ipynb`.
