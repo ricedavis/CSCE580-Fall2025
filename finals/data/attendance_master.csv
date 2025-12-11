@@ -1,0 +1,873 @@
+class,date,serial,name,username
+9,16 Sep 2025,1,Eli Hatcher,kh155
+9,16 Sep 2025,2,James Tabacilan,jtabacilan
+9,16 Sep 2025,3,Ritvik Neemblit,neemblit
+9,16 Sep 2025,4,Aashish Jayapoorwan,aashishj
+9,16 Sep 2025,5,Evan Fundburg,ewf
+9,16 Sep 2025,6,Will Thacher,wthacher
+9,16 Sep 2025,7,Aden Von Vorhis,vonvorhis
+9,16 Sep 2025,8,Jiaxuan Zhang,jiaxuan23
+9,16 Sep 2025,9,Yamuna Bobbala,ybobbala
+9,16 Sep 2025,10,Dustin McDowell,dm99
+9,16 Sep 2025,11,Donovan Williams,dws58
+9,16 Sep 2025,12,Luke Peter,mp79
+9,16 Sep 2025,13,Gavin Orme,gorme
+9,16 Sep 2025,14,Grace Wohlwinder,wohlwims
+9,16 Sep 2025,15,Sai Deja,spaladi
+9,16 Sep 2025,16,Shruti Jadhav,ssjadhav
+9,16 Sep 2025,17,Jacob Robertson,jmr40
+9,16 Sep 2025,18,Trevor Lu,tl26
+9,16 Sep 2025,19,Lea Frost,lkfrost
+9,16 Sep 2025,20,Charlie Gorman,gormanc
+9,16 Sep 2025,21,Drew Dable,drewdable
+9,16 Sep 2025,22,Kyle Hix,khix
+9,16 Sep 2025,23,Andrew Lim,csalim
+9,16 Sep 2025,24,Bea Shillington,bdshilli
+9,16 Sep 2025,25,Nathan Nicodin,nnicodin
+9,16 Sep 2025,26,Steven Dindl,sdindl
+9,16 Sep 2025,27,Joseph Vann,rvann
+9,16 Sep 2025,28,Ronald Rahenkamp,ronaldpr
+9,16 Sep 2025,29,Ardoine Docteur,adocteur
+9,16 Sep 2025,30,Patrick Bailey,pab6
+9,16 Sep 2025,31,Ash Jacobson,ashj
+9,16 Sep 2025,32,Cody Miller,codyam
+9,16 Sep 2025,33,Thomas Davis,td7
+25,13 Nov 2025,1,Grace Wohlwinder,wohlwins
+25,13 Nov 2025,2,Eli Hatcher,kh155
+25,13 Nov 2025,3,Aashish Jayapreman,aashish
+25,13 Nov 2025,4,Divyanshanu Swain,swainchr
+25,13 Nov 2025,5,Justin Mateo,jmateo03
+25,13 Nov 2025,6,Jiaxuan Zhang,jiaxuanz
+25,13 Nov 2025,7,Lea Frost,lkfrost
+25,13 Nov 2025,8,Yamuna Bobbala,ybobbala
+25,13 Nov 2025,9,Charlie Gorman,gormanc6
+25,13 Nov 2025,10,Pedro Fischetti,pedrof
+25,13 Nov 2025,11,Nathan Nicodin,nnicodin
+25,13 Nov 2025,12,Lily Lamb,llamb
+25,13 Nov 2025,13,Sai Teja,spaladi
+25,13 Nov 2025,14,Dustin McDowell,dm99
+25,13 Nov 2025,15,Shruti Jadhav,ssjadhav
+25,13 Nov 2025,16,Tyler Krath,tkrath
+25,13 Nov 2025,17,Kiran Chhetri,kchhetri
+25,13 Nov 2025,18,Cody Miller,codyam
+25,13 Nov 2025,19,Drew Dabe,ddabe
+5,2 Sep 2025,1,Eli Hatcher,kh155
+5,2 Sep 2025,2,Suprawee Pongeeradach,suprawee
+5,2 Sep 2025,3,Aashish Jayapoorwan,aashishj
+5,2 Sep 2025,4,Jiaxuan Zhang,jiaxuan23
+5,2 Sep 2025,5,Justin Mateo,jsmateo
+5,2 Sep 2025,6,Ardoine Docteur,adocteur
+5,2 Sep 2025,7,Dustin McDowell,dm99
+5,2 Sep 2025,8,James Tabacilan,jtabacilan
+5,2 Sep 2025,9,Will Thacher,wthacher
+5,2 Sep 2025,10,Evan Fundburg,ewf
+5,2 Sep 2025,11,Joshua Arega,jarega
+5,2 Sep 2025,12,Devar Ravenell,devarc
+5,2 Sep 2025,13,Patrick Bailey,pab6
+5,2 Sep 2025,14,Aden Von Vorhis,vonvorhis
+5,2 Sep 2025,15,Ritvik Neemblit,neemblit
+5,2 Sep 2025,16,Charlie Gorman,gormanc
+5,2 Sep 2025,17,Yamuna Bobbala,ybobbala
+5,2 Sep 2025,18,Trevor Lu,tl26
+5,2 Sep 2025,19,Shruti Jadhav,ssjadhav
+5,2 Sep 2025,20,Sai Deja,spaladi
+5,2 Sep 2025,21,Bea Shillington,bdshilli
+5,2 Sep 2025,22,Kyle Hix,khix
+5,2 Sep 2025,23,Jacob Robertson,jmr40
+5,2 Sep 2025,24,Drew Dable,drewdable
+5,2 Sep 2025,25,Pedro Fischetti,petrof
+5,2 Sep 2025,26,Tylor North,tnorth
+5,2 Sep 2025,28,Nathan Nicodin,nnicodin
+5,2 Sep 2025,29,Lily Lamb,llamb
+5,2 Sep 2025,30,Thomas Davis,td7
+5,2 Sep 2025,31,Kieran Chhetri,chhetrik
+5,2 Sep 2025,32,Cody Miller,codyam
+5,2 Sep 2025,33,Donovan Williams,dws58
+5,2 Sep 2025,34,Luke Peter,mp79
+5,2 Sep 2025,35,Sara Shree RM,muthuses
+5,2 Sep 2025,36,Ronald Rahenkamp,ronaldpr
+5,2 Sep 2025,37,Joseph Vann,rvann
+5,2 Sep 2025,38,Meara Cox,mccox
+5,2 Sep 2025,39,Lea Frost,lkfrost
+5,2 Sep 2025,40,Andrew Lim,csalim
+5,2 Sep 2025,41,Grace Wohlwinder,wohlwims
+13,30 Sep 2025,1,David Dinh,dd26
+13,30 Sep 2025,2,Aashish Jayapoorwan,aashishj
+13,30 Sep 2025,3,Yamuna Bobbala,ybobbala
+13,30 Sep 2025,4,Will Thacher,wthacher
+13,30 Sep 2025,5,Evan Fundsburg,ewf
+13,30 Sep 2025,6,Ritvik Neemblit,neemblit
+13,30 Sep 2025,7,Aden Von Vorhis,vonvorhis
+13,30 Sep 2025,8,Eli Hatcher,kh155
+13,30 Sep 2025,9,Grace Wohlwinder,wohlwims
+13,30 Sep 2025,10,James Tabacilan,jtabacilan
+13,30 Sep 2025,11,Joshua Arega,jarega
+13,30 Sep 2025,12,Devar Ravenell,devarc
+13,30 Sep 2025,13,Donovan Williams,dws58
+13,30 Sep 2025,14,Luke Peter,mp79
+13,30 Sep 2025,15,Jacob Robertson,jmr40
+13,30 Sep 2025,16,Trevor Lu,tl26
+13,30 Sep 2025,17,Jiaxuan Zhang,jiaxuan23
+13,30 Sep 2025,18,Charlie Gorman,gormanc
+13,30 Sep 2025,19,Drew Dable,drewdable
+13,30 Sep 2025,20,Kyle Hix,khix
+13,30 Sep 2025,21,Pedro Fischetti,petrof
+13,30 Sep 2025,22,Tylor North,tnorth
+13,30 Sep 2025,23,Nathan Nicodin,nnicodin
+13,30 Sep 2025,28,Lily Lamb,llamb
+13,30 Sep 2025,29,Kieran Chhetri,chhetrik
+13,30 Sep 2025,30,Thomas Davis,td7
+13,30 Sep 2025,31,Joseph Vann,rvann
+13,30 Sep 2025,32,Dustin McDowell,dm99
+13,30 Sep 2025,33,Meara Cox,mccox
+13,30 Sep 2025,34,Suprawee Pongeeradach,suprawee
+13,30 Sep 2025,35,Sai Deja,spaladi
+13,30 Sep 2025,36,Ardoine Docteur,adocteur
+13,30 Sep 2025,37,Lea Frost,lkfrost
+12,25 Sep 2025,1,Eli Hatcher,kh155
+12,25 Sep 2025,2,Patrick Bailey,pab6
+12,25 Sep 2025,3,Sara Shree Muthuselvam,muthuses
+12,25 Sep 2025,4,Aashish Jayapoorwan,aashishj
+12,25 Sep 2025,5,Evan Fundburg,ewf
+12,25 Sep 2025,6,Ritvik Neemblit,neemblit
+12,25 Sep 2025,7,Aden Von Vorhis,vonvorhis
+12,25 Sep 2025,8,Will Thacher,wthacher
+12,25 Sep 2025,9,Ash Jacobson,ashj
+12,25 Sep 2025,10,Donovan Williams,dws58
+12,25 Sep 2025,11,Gavin Orme,gorme
+12,25 Sep 2025,12,Grace Wohlwinder,wohlwims
+12,25 Sep 2025,13,Charlie Gorman,gormanc
+12,25 Sep 2025,14,Jacob Robertson,jmr40
+12,25 Sep 2025,15,Trevor Lu,tl26
+12,25 Sep 2025,16,Shruti Jadhav,ssjadhav
+12,25 Sep 2025,17,Andrew Lim,csalim
+12,25 Sep 2025,18,Yamuna Bobbala,ybobbala
+12,25 Sep 2025,19,Luke Peter,mp79
+12,25 Sep 2025,20,Drew Dable,drewdable
+12,25 Sep 2025,21,Jiaxuan Zhang,jiaxuan23
+12,25 Sep 2025,22,Kyle Hix,khix
+12,25 Sep 2025,23,Bea Shillington,bdshilli
+12,25 Sep 2025,24,Nathan Nicodin,nnicodin
+12,25 Sep 2025,25,Pedro Fischetti,petrof
+12,25 Sep 2025,28,Lily Lamb,llamb
+12,25 Sep 2025,29,Thomas Davis,td7
+12,25 Sep 2025,30,Camron Martin,camronm
+12,25 Sep 2025,31,Sai Deja,spaladi
+12,25 Sep 2025,32,Cody Miller,codyam
+12,25 Sep 2025,33,Dustin McDowell,dm99
+12,25 Sep 2025,34,James Tabacilan,jtabacilan
+12,25 Sep 2025,35,Ardoine Docteur,adocteur
+12,25 Sep 2025,36,Lea Frost,lkfrost
+12,25 Sep 2025,37,Suprawee Pongeeradach,suprawee
+4,28 Aug 2025,1,Eli Hatcher,kh155
+4,28 Aug 2025,2,David Dinh,dd26
+4,28 Aug 2025,3,Aashish Jayapoorwan,aashishj
+4,28 Aug 2025,4,Divyachamun Swain,dswain6
+4,28 Aug 2025,5,Justin Mateo,jsmateo
+4,28 Aug 2025,6,Devar Ravenell,devarc
+4,28 Aug 2025,7,Suprawee Pongeeradach,
+4,28 Aug 2025,8,Donovan Williams,dws58
+4,28 Aug 2025,9,Luke Peter,mp79
+4,28 Aug 2025,10,Gavin Orme,gorme
+4,28 Aug 2025,11,Jacob Robertson,jmr40
+4,28 Aug 2025,12,Charlie Gorman,gormanc
+4,28 Aug 2025,13,Lea Frost,lkfrost
+4,28 Aug 2025,14,Kyle Hix,khix
+4,28 Aug 2025,15,Steven Dindl,sdindl
+4,28 Aug 2025,16,Bea Shillington,bdshilli
+4,28 Aug 2025,17,Nathan Nicodin,nnicodin
+4,28 Aug 2025,18,Tracey North,tnorth
+4,28 Aug 2025,19,Trenton Braley,tbraley
+4,28 Aug 2025,20,Pedro Fischetti,petrof
+4,28 Aug 2025,21,Drew Dable,drewdable
+4,28 Aug 2025,22,Dustin McDowell,dm99
+4,28 Aug 2025,23,Grace Wohlwinder,wohlwims
+4,28 Aug 2025,24,Sara Shree Muthuselvam,
+4,28 Aug 2025,25,Jiaxuan Zhang,jiaxuan23
+4,28 Aug 2025,26,Camron Martin,camronm
+4,28 Aug 2025,28,Andrew Lim,csalim
+4,28 Aug 2025,29,Yamuna Bobbala,ybobbala
+4,28 Aug 2025,30,Ronald Rahenkamp,ronaldpr
+4,28 Aug 2025,31,Ardoine Docteur,adocteur
+24,2025-11-11,1,Dustin McDowell,dm99
+24,2025-11-11,2,Kyle Hix,khix
+24,2025-11-11,3,Evan Fundeburg,ewf
+24,2025-11-11,4,Trevor La,tl26
+24,2025-11-11,5,Will Thacher,wthatcher
+24,2025-11-11,6,Joseph Vann,jrvann
+24,2025-11-11,7,Andrew Lim,aclim
+24,2025-11-11,8,Thomas Davis,trd7
+24,2025-11-11,9,Nathan Nicodin,nnicodin
+24,2025-11-11,10,Devar Acwenell,devarc
+24,2025-11-11,11,Trenton Braley,tbraley
+24,2025-11-11,12,Divyanshanu Swain,swaindev
+24,2025-11-11,13,Ash Patel,ashpat
+24,2025-11-11,14,Joshua Arego,jarego
+24,2025-11-11,15,Ash Jacobson,ashjj
+24,2025-11-11,16,Charlotte Baker,crb27
+24,2025-11-11,17,Suprawee Pongpeeradeach,suprawee
+24,2025-11-11,18,Lee Frost,lkfrost
+24,2025-11-11,19,Sara Muthuselvam,muthuses
+24,2025-11-11,20,Ben Shillington,bdshilli
+24,2025-11-11,21,Justin Mateo,jmateo03
+24,2025-11-11,22,Grace Wohlwinder,wohlwins
+24,2025-11-11,23,Cody Miller,codyam
+24,2025-11-11,24,Jiaxuan Zhang,jiaxuanz
+24,2025-11-11,25,Jacob Robertson,jmr40
+24,2025-11-11,26,Gavin Orme,gormac
+24,2025-11-11,27,Patrick Bailey,pab6
+24,2025-11-11,28,Shruti Jadhav,ssjadhav
+24,2025-11-11,29,Luke Peter,mp79
+24,2025-11-11,30,Aashish Jayaprasan,aashish
+24,2025-11-11,31,Eli Hatcher,kh155
+24,2025-11-11,32,David Dinh,dd26
+24,2025-11-11,33,Meara Cox,mccox
+24,2025-11-11,34,Ardoine Docteur,adocteur
+24,2025-11-11,35,Sai Deja,spaladi
+24,2025-11-11,36,Steven Dihdl,sdihdl
+24,2025-11-11,37,Lily Lamb,lrlamb
+24,2025-11-11,38,Pedro Fischetti,pedrof
+24,2025-11-11,39,Tyr Kareth,tkareth
+24,2025-11-11,40,Drew Dabe,ddabe
+24,2025-11-11,41,Donovan Williams,dw58
+8,11 Sep 2025,1,Aashish Jayapoorwan,aashishj
+8,11 Sep 2025,2,Suprawee Pongeeradach,suprawee
+8,11 Sep 2025,3,Jiaxuan Zhang,jiaxuan23
+8,11 Sep 2025,4,Justin Mateo,jsmateo
+8,11 Sep 2025,5,Devar Ravenell,devarc
+8,11 Sep 2025,6,Joshua Arega,jarega
+8,11 Sep 2025,7,Will Thacher,wthacher
+8,11 Sep 2025,8,Charlie Gorman,gormanc
+8,11 Sep 2025,9,Grace Wohlwinder,wohlwims
+8,11 Sep 2025,10,Donovan Williams,dws58
+8,11 Sep 2025,11,Gavin Orme,gorme
+8,11 Sep 2025,12,Aden Von Vorhis,vonvorhis
+8,11 Sep 2025,13,Jacob Robertson,jmr40
+8,11 Sep 2025,14,Sara Muthuselvam,muthuses
+8,11 Sep 2025,15,Shruti Jadhav,ssjadhav
+8,11 Sep 2025,16,Trevor Lu,tl26
+8,11 Sep 2025,17,Lea Frost,lkfrost
+8,11 Sep 2025,18,Luke Peter,mp79
+8,11 Sep 2025,19,Drew Dable,drewdable
+8,11 Sep 2025,20,Kyle Hix,khix
+8,11 Sep 2025,21,Bea Shillington,bdshilli
+8,11 Sep 2025,22,Nathan Nicodin,nnicodin
+8,11 Sep 2025,23,Tylor North,tnorth
+8,11 Sep 2025,24,Pedro Fischetti,petrof
+8,11 Sep 2025,28,Sai Deja,spaladi
+8,11 Sep 2025,29,Lily Lamb,llamb
+8,11 Sep 2025,30,Thomas Davis,td7
+8,11 Sep 2025,31,Ronald Rahenkamp,ronaldpr
+8,11 Sep 2025,32,Cody Miller,codyam
+8,11 Sep 2025,33,James Tabacilan,jtabacilan
+8,11 Sep 2025,34,Ritvik Neemblit,neemblit
+8,11 Sep 2025,35,Evan Fundburg,ewf
+8,11 Sep 2025,36,Yamuna Bobbala,ybobbala
+8,11 Sep 2025,37,Ardoine Docteur,adocteur
+3,26 Aug 2025,1,Eli Hatcher,kh155
+3,26 Aug 2025,2,Aashish Jayapoorwan,aashishj
+3,26 Aug 2025,3,James Tabacilan,jtabacilan
+3,26 Aug 2025,4,Patrick Bailey,pab6
+3,26 Aug 2025,5,Ash Jacobson,ashj
+3,26 Aug 2025,6,Divyachamun Swain,dswain6
+3,26 Aug 2025,7,Dustin McDowell,dm99
+3,26 Aug 2025,8,Ritvik Neemblit,neemblit
+3,26 Aug 2025,9,Grace Wohlwinder,wohlwims
+3,26 Aug 2025,10,Will Thacher,wthacher
+3,26 Aug 2025,11,Joshua Arega,jarega
+3,26 Aug 2025,12,Devar Ravenell,devarc
+3,26 Aug 2025,13,Jiaxuan Zhang,jiaxuan23
+3,26 Aug 2025,14,Suprawee Pongeeradach,suprawee
+3,26 Aug 2025,15,Gavin Orme,gorme
+3,26 Aug 2025,16,Donovan Williams,dws58
+3,26 Aug 2025,17,Luke Peter,mp79
+3,26 Aug 2025,18,Lea Frost,lkfrost
+3,26 Aug 2025,19,Jacob Robertson,jmr40
+3,26 Aug 2025,20,Trevor Lu,tl26
+3,26 Aug 2025,21,Shruti Jadhav,ssjadhav
+3,26 Aug 2025,22,Bea Shillington,bdshilli
+3,26 Aug 2025,23,Kyle Hix,khix
+3,26 Aug 2025,24,Drew Dable,drewdable
+3,26 Aug 2025,25,Charlie Gorman,gormanc
+3,26 Aug 2025,26,Stefan Dindl,sdindl
+3,26 Aug 2025,27,Trent Braley,tbraley
+3,26 Aug 2025,28,Tracey North,tnorth
+3,26 Aug 2025,29,Nathan Nicodin,nnicodin
+3,26 Aug 2025,30,Sara Shree Muthuselvam,
+3,26 Aug 2025,31,Camron Martin,camronm
+3,26 Aug 2025,32,Sai Deja,spaladi
+3,26 Aug 2025,33,Thomas Davis,td7
+3,26 Aug 2025,34,Ronald Rahenkamp,ronaldpr
+3,26 Aug 2025,35,Ansh Patel,anshp
+3,26 Aug 2025,36,Joseph Vann,rvann
+3,26 Aug 2025,37,Yamuna Bobbala,ybobbala
+3,26 Aug 2025,38,Meara Cox,mccox
+3,26 Aug 2025,39,Cody Miller,codyam
+3,26 Aug 2025,40,Kieran Chhetri,chhetrik
+3,26 Aug 2025,41,Pedro Fischetti,petrof
+3,26 Aug 2025,42,Andrew Lim,csalim
+3,26 Aug 2025,43,David Dinh,dd26
+3,26 Aug 2025,44,Lilian Lamb,llamb
+3,26 Aug 2025,45,Ardoine Docteur,adocteur
+15,7 Oct 2025,1,Eli Hatcher,kh155
+15,7 Oct 2025,2,David Dinh,dd26
+15,7 Oct 2025,3,Kyle Hix,khix
+15,7 Oct 2025,4,Aashish Jayapoorwan,aashishj
+15,7 Oct 2025,5,Trevor Lu,tl26
+15,7 Oct 2025,6,Grace Wohlwinder,wohlwims
+15,7 Oct 2025,7,James Tabacilan,jtabacilan
+15,7 Oct 2025,8,Dustin McDowell,dm99
+15,7 Oct 2025,9,Divyashame Swain,swaindiv
+15,7 Oct 2025,10,Luke Peter,mp79
+15,7 Oct 2025,11,Meara Cox,mccox
+15,7 Oct 2025,12,Evan Fundsburg,ewf
+15,7 Oct 2025,13,Camron Martin,camronm
+15,7 Oct 2025,14,Gavin Orme,gorme
+15,7 Oct 2025,15,Donovan Williams,dws58
+15,7 Oct 2025,16,Joseph Vann,jrvann
+15,7 Oct 2025,17,Charlotte Baker,chb27
+15,7 Oct 2025,18,Joshua Arega,jarega
+15,7 Oct 2025,19,Lea Frost,lkfrost
+15,7 Oct 2025,20,Jacob Robertson,jmr46
+15,7 Oct 2025,21,Ash Jacobson,ashji
+15,7 Oct 2025,22,Patrick Bailey,pab6
+15,7 Oct 2025,23,Nathan Nicodin,nnicodin
+15,7 Oct 2025,24,Jiaxuan Zhang,jiaxuanz
+15,7 Oct 2025,25,Suprawee Pongpeeredach,suprawee
+15,7 Oct 2025,26,Cody Miller,codyam
+15,7 Oct 2025,27,Thomas Davis,trd7
+15,7 Oct 2025,28,Charlie Gorman,gormanch
+15,7 Oct 2025,29,Will Thacher,wthacher
+15,7 Oct 2025,30,Ritvik Neemblit,neemblit
+15,7 Oct 2025,31,Aiden Von Vorhis,vonvorhis
+15,7 Oct 2025,32,Tylor North,tnorth
+15,7 Oct 2025,33,Kiran Chhetri,chhetrik
+15,7 Oct 2025,34,Justin Mateo,jsmateo03
+15,7 Oct 2025,35,Sai Deja,spaladi
+15,7 Oct 2025,36,Devar Ravenell,devarc
+15,7 Oct 2025,37,Yamuna Bobbala,ybobbala
+15,7 Oct 2025,38,Lily Lamb,llamb
+15,7 Oct 2025,39,Drew Dable,djdable
+15,7 Oct 2025,40,Sara Shree,muthuses
+15,7 Oct 2025,41,Steven Dindl,sdindl
+15,7 Oct 2025,42,Shruti Jadhav,ssjadhav
+15,7 Oct 2025,43,Trent Braley,tbraley
+15,7 Oct 2025,44,Ansh Patel,anshp
+15,7 Oct 2025,45,Ardoine Docteur,adocteur
+19,23 Oct 2025,1,Eli Hatcher,kh155
+19,23 Oct 2025,2,Aashish Jayapreman,aashish
+19,23 Oct 2025,3,Evan Fundoburg,ewf
+19,23 Oct 2025,4,Afton Van Voorhis,vanvoora
+19,23 Oct 2025,5,Will Thacher,wthatcher
+19,23 Oct 2025,6,Ritvik Neematbil,neematbt
+19,23 Oct 2025,7,Justin Mateo,jmateo
+19,23 Oct 2025,8,Sai Teja,spaladi
+19,23 Oct 2025,9,Shruti Jadhav,ssjadhav
+19,23 Oct 2025,10,Trevor La,tl26
+19,23 Oct 2025,11,Gavin Orme,gorme
+19,23 Oct 2025,12,Luke Peter,mp79
+19,23 Oct 2025,13,Charlie Gorman,gormanc
+19,23 Oct 2025,14,Drew Dabe,ddabe
+19,23 Oct 2025,15,Kyle Hix,khix
+19,23 Oct 2025,16,Ben Shillington,bdshilli
+19,23 Oct 2025,17,Nathan Nicodin,nnicodin
+19,23 Oct 2025,18,Tyler Krarth,tkrarth
+19,23 Oct 2025,19,Lily Lamb,lrlamb
+19,23 Oct 2025,20,Charlotte Baker,chb27
+19,23 Oct 2025,21,Cody Miller,codyam
+19,23 Oct 2025,22,Ardoine Docteur,adocteur
+19,23 Oct 2025,23,Dustin McDowell,dm99
+19,23 Oct 2025,24,Joseph Vann,jrvann
+19,23 Oct 2025,25,Patrick Bailey,pab6
+19,23 Oct 2025,26,Meara Cox,mccox
+19,23 Oct 2025,27,Ash Jacobson,ashjs
+19,23 Oct 2025,28,Grace Wohlwinder,wohlwins
+19,23 Oct 2025,29,Donovan Williams,dws8
+19,23 Oct 2025,30,Yamuna Bobbala,ybobbala
+19,23 Oct 2025,31,Jiaxuan Zhang,jiaxuanz
+19,23 Oct 2025,32,James Tabolcian,tabolcian
+22,"Nov 4, 2025",1,Eli Hatcher,kh155
+22,"Nov 4, 2025",2,Aidan Van Voorhis,vanvoorra
+22,"Nov 4, 2025",3,Will Thacher,wthatcher
+22,"Nov 4, 2025",4,Evan Funderburg,evf
+22,"Nov 4, 2025",5,Justin Mateo,jmateo03
+22,"Nov 4, 2025",6,Lily Lamb,lrlamb
+22,"Nov 4, 2025",7,Trevor La,tl26
+22,"Nov 4, 2025",8,Shruti Jadhav,ssjadhav
+22,"Nov 4, 2025",9,Ben Shillington,bdshilli
+22,"Nov 4, 2025",10,Nathan Nicodin,nnicodin
+22,"Nov 4, 2025",11,Tyler Krath,tkrath
+22,"Nov 4, 2025",12,Kyle Hix,khix
+22,"Nov 4, 2025",13,Charlie Gorman,gormanc8
+22,"Nov 4, 2025",14,Drew Dabe,ddabe
+22,"Nov 4, 2025",15,Luke Peter,mp79
+22,"Nov 4, 2025",16,Donovan Williams,dw58
+22,"Nov 4, 2025",17,Yamuna Bobbala,ybobbala
+22,"Nov 4, 2025",18,Lea Frost,lkfrost
+22,"Nov 4, 2025",19,Meara Cox,mccox
+22,"Nov 4, 2025",20,Charlotte Baker,crb27
+22,"Nov 4, 2025",21,Aashish Jayapreman,aashish
+22,"Nov 4, 2025",22,David Dinh,dd26
+22,"Nov 4, 2025",23,Cody Miller,codyam
+22,"Nov 4, 2025",24,Dustin McDowell,dm99
+22,"Nov 4, 2025",25,Jiaxuan Zhang,jiaxuanz
+22,"Nov 4, 2025",26,Ardoine Docteur,adocteur
+22,"Nov 4, 2025",27,Grace Wohlwinder,wohlwins
+18,21 Oct 2025,1,Grace Wohlwinder,wohlwins
+18,21 Oct 2025,2,Eli Hatcher,kh155
+18,21 Oct 2025,3,Yamuna Bobbala,ybobbala
+18,21 Oct 2025,4,Afton Van Voorhis,vanvoorra
+18,21 Oct 2025,5,Evan Fundburg,ewf
+18,21 Oct 2025,6,Justin Mateo,jmateo03
+18,21 Oct 2025,7,Divyashame Swain,swainchr
+18,21 Oct 2025,8,Ritvik Neemtabli,neemtabr
+18,21 Oct 2025,9,Donovan Williams,dws8
+18,21 Oct 2025,10,Lea Frost,lkfrost
+18,21 Oct 2025,11,Jiaxuan Zhang,jiaxuanz
+18,21 Oct 2025,12,Trevor Lu,tl26
+18,21 Oct 2025,13,Luke Peter,mp79
+18,21 Oct 2025,14,Charlie Gorman,gormanc
+18,21 Oct 2025,15,Kyle Hix,khix
+18,21 Oct 2025,16,Pedro Fischetti,pedrof
+18,21 Oct 2025,17,Steven Dindl,sdindl
+18,21 Oct 2025,18,Tyler Knorth,tknorth
+18,21 Oct 2025,19,Nathan Nicodin,nnicodin
+18,21 Oct 2025,20,Ben Shillington,bdshilli
+18,21 Oct 2025,21,Lily Lamb,lrlamb
+18,21 Oct 2025,22,Thomas Davis,trd7
+18,21 Oct 2025,23,Cody Miller,codyam
+18,21 Oct 2025,24,Sai deja,spaladi
+18,21 Oct 2025,28,Meara Cox,mccox
+18,21 Oct 2025,29,David Dinh,dd26
+18,21 Oct 2025,30,Aashish Jayaprasan,aashish
+18,21 Oct 2025,31,Dustin McDowell,dm99
+18,21 Oct 2025,32,Ardoine Docteur,adocteur
+18,21 Oct 2025,33,Shruti Jadhav,ssjadhav
+18,21 Oct 2025,34,Drew Dabe,ddabe
+18,21 Oct 2025,35,Will Thacther,wthacthr
+18,21 Oct 2025,36,James Tabakian,tabakian
+14,2 Oct 2025,1,Eli Hatcher,kh155
+14,2 Oct 2025,2,James Tabacilan,jtabacilan
+14,2 Oct 2025,3,Will Thacher,wthacher
+14,2 Oct 2025,4,Evan Fundsburg,ewf
+14,2 Oct 2025,5,Justin Mateo,jsmateo
+14,2 Oct 2025,6,Cody Miller,codyam
+14,2 Oct 2025,7,Dustin McDowell,dm99
+14,2 Oct 2025,8,Meara Cox,mccox
+14,2 Oct 2025,9,Robbie Vann,jrvann
+14,2 Oct 2025,10,Lily Lamb,llamb
+14,2 Oct 2025,11,Sai Deja,spaladi
+14,2 Oct 2025,12,Devar Ravenell,devarc
+14,2 Oct 2025,13,Grace Wohlwinder,wohlwims
+14,2 Oct 2025,14,Donovan Williams,dws58
+14,2 Oct 2025,15,Luke Peter,mp79
+14,2 Oct 2025,16,Jacob Robertson,jmr46
+14,2 Oct 2025,17,Trevor Lu,tl26
+14,2 Oct 2025,18,Shruti Jadhav,ssjadhav
+14,2 Oct 2025,19,Ben Shillington,bdshilli
+14,2 Oct 2025,20,Kyle Hix,khix
+14,2 Oct 2025,21,Drew Dable,djdable
+14,2 Oct 2025,22,Pedro Fischetti,petrof
+14,2 Oct 2025,23,Tylor North,tnorth
+14,2 Oct 2025,24,Aiden Von Vorhis,vonvorhis
+14,2 Oct 2025,25,Ritvik Neemblit,neemblit
+14,2 Oct 2025,26,Yamuna Bobbala,ybobbala
+14,2 Oct 2025,27,Jiaxuan Zhang,jiaxuanz
+14,2 Oct 2025,28,Aashish Jayapoorwan,aashishj
+14,2 Oct 2025,29,Ardoine Docteur,adocteur
+2,21 Aug 2025,1,David Dinh,ddf
+2,21 Aug 2025,2,Andrew Lim,csalim
+2,21 Aug 2025,3,Divyachamun Swain,dswain6
+2,21 Aug 2025,4,Aqine Dotson,
+2,21 Aug 2025,5,Justin Mateo,jsmateo
+2,21 Aug 2025,6,Devar Ravenell,devarc
+2,21 Aug 2025,7,Jeshua Arega,
+2,21 Aug 2025,8,Charlotte Baker,cbh27
+2,21 Aug 2025,9,Grace Wohlwinder,gracewohlwinder
+2,21 Aug 2025,10,Luke Peter,mp79
+2,21 Aug 2025,11,Gavin Orme,gorme
+2,21 Aug 2025,12,Donovan Williams,dws58
+2,21 Aug 2025,13,Lea Frost,lkfrost
+2,21 Aug 2025,14,Supranee Pongeeradach,
+2,21 Aug 2025,15,Trevor Liu,trevorliu04
+2,21 Aug 2025,16,Shruti Jadhav,
+2,21 Aug 2025,17,Bea Shillington,bdshilli
+2,21 Aug 2025,18,Kieran Chhetri,chhetrik
+2,21 Aug 2025,19,Steven Dindl,sdindl
+2,21 Aug 2025,20,Kyle Hix,khix
+2,21 Aug 2025,21,Drew Dable,drewdable
+2,21 Aug 2025,22,Charlie Gorman,
+2,21 Aug 2025,23,Trenton Braley,tbraley
+2,21 Aug 2025,24,Tracey North,tnorth
+2,21 Aug 2025,25,Nathan Nicodin,nnicodin
+2,21 Aug 2025,26,Ansh Patel,anshp
+2,21 Aug 2025,27,Ronald Rahenkamp,ronaldpr
+2,21 Aug 2025,28,Camron Martin,camronm
+2,21 Aug 2025,29,Matthew Arinolds,arinolds
+2,21 Aug 2025,30,Thomas Davis,td7
+2,21 Aug 2025,31,Sai Deja,spaladi
+2,21 Aug 2025,32,Yamuna Bobbala,ybobbala
+2,21 Aug 2025,33,Joseph Vann,rvann
+2,21 Aug 2025,34,Meara Cox,mccox
+2,21 Aug 2025,35,James Tabacilan,jtabacilan
+2,21 Aug 2025,36,Cody Miller,codyam
+2,21 Aug 2025,37,Ritvik Neemblit,neemblit
+2,21 Aug 2025,38,Aden Von Vorhis,vonvorhis
+2,21 Aug 2025,39,Lilian Lamb,llamb
+2,21 Aug 2025,40,Jiaxian Zhang,
+2,21 Aug 2025,41,Ash Jacobso,ashj
+2,21 Aug 2025,42,Patrick Bailey,pab6
+2,21 Aug 2025,43,Eli Hatcher,eh155
+2,21 Aug 2025,44,Aashish Jayapoorwan,aashishj
+2,21 Aug 2025,45,Sara Shree Muthuselvam,muthuses
+2,21 Aug 2025,46,Dustin McDowell,dm99
+2,21 Aug 2025,47,Evan Fundburg,ewf
+2,21 Aug 2025,48,Will Thacher,wthacher
+2,21 Aug 2025,49,Jacob Robertson,jmr40
+17,16 Oct 2025,1,Eli Hatcher,kh155
+17,16 Oct 2025,2,James Tabakian,tabakian
+17,16 Oct 2025,3,Yamuna Bobbala,ybobbala
+17,16 Oct 2025,4,Aidan Van Voorhis,vanvoorra
+17,16 Oct 2025,5,Ritvik Neemattli,neemattli
+17,16 Oct 2025,6,Will Thacker,wthacker
+17,16 Oct 2025,7,Evan Fundburgr,ewf
+17,16 Oct 2025,8,Justin Mateo,jmateo03
+17,16 Oct 2025,9,Cody Miller,codyam
+17,16 Oct 2025,10,Aashish Jayaprasann,aashish
+17,16 Oct 2025,11,Dustin McDowell,dm99
+17,16 Oct 2025,12,Sai deja,spaladi
+17,16 Oct 2025,13,Thomas Davis,trd7
+17,16 Oct 2025,14,Lily Lamb,lrlamb
+17,16 Oct 2025,15,Shruti Jadhav,ssjadhav
+17,16 Oct 2025,16,Jacob Robertson,jmr40
+17,16 Oct 2025,17,Luke Peter,mp79
+17,16 Oct 2025,18,Donovan Williams,dws8
+17,16 Oct 2025,19,Grace Wohlwinder,wohlwins
+17,16 Oct 2025,20,Lea Frost,lkfrost
+17,16 Oct 2025,21,Jiaxuan Zhang,jiaxuanz
+17,16 Oct 2025,22,Charlie Gorman,gormanc
+17,16 Oct 2025,23,Drew Dabe,ddabe
+17,16 Oct 2025,24,Kyle Hix,khix
+17,16 Oct 2025,25,Ben Shillington,bdshilli
+17,16 Oct 2025,26,Nathan Nicodin,nnicodin
+17,16 Oct 2025,27,Tylor Krath,tkrath
+17,16 Oct 2025,28,Pedro Fischetti,pedrof
+1,19 Aug 2025,1,Lilian Lamb,llamb
+1,19 Aug 2025,2,Luke Peter,mp79
+1,19 Aug 2025,3,Gavin Orme,gorme
+1,19 Aug 2025,4,Charlie Gorman,gormanc
+1,19 Aug 2025,5,Kyle Hix,khix
+1,19 Aug 2025,6,Pedro Fischetti,petrof
+1,19 Aug 2025,7,Stefan Dindl,sdindl
+1,19 Aug 2025,8,Trenton Braley,tbraley
+1,19 Aug 2025,9,Tracey North,tnorth
+1,19 Aug 2025,10,Nathan Nicodin,nnicodin
+1,19 Aug 2025,11,Devar Ravenell,devarc
+1,19 Aug 2025,12,Ansh Patel,anshp
+1,19 Aug 2025,13,Jacob Robertson,jmr40
+1,19 Aug 2025,14,Lea Frost,lkfrost
+1,19 Aug 2025,15,Sai Deja,spaladi
+1,19 Aug 2025,16,Eli Hatcher,eh155
+1,19 Aug 2025,17,Donovan Williams,dws58
+1,19 Aug 2025,18,Divyachamun Swain,dswain6
+1,19 Aug 2025,19,Charlotte Baker,cbh27
+1,19 Aug 2025,20,Aashish Jayapoorwan,aashishj
+1,19 Aug 2025,21,Dustin McDowell,dm99
+1,19 Aug 2025,22,Ash Jacobso,ashj
+1,19 Aug 2025,23,Jiaxian Zhang,jiaxianz
+1,19 Aug 2025,24,Justin Mateo,justinmateo
+1,19 Aug 2025,25,Patrick Bailey,pab6
+1,19 Aug 2025,26,Joshua Arega,jarega
+1,19 Aug 2025,27,Joseph Vann,rvann
+1,19 Aug 2025,28,Andrew Lim,cs-alim
+1,19 Aug 2025,29,Thomas Davis,td7
+1,19 Aug 2025,30,Camron Martin,camrom
+1,19 Aug 2025,31,Ronald Rahenkamp,ronaldpr
+1,19 Aug 2025,32,Cody Miller,codyam
+1,19 Aug 2025,33,Drew Dable,drewdable
+1,19 Aug 2025,34,Will Thacher,wthacher
+1,19 Aug 2025,35,Ritvik Neemblit,neemblit
+1,19 Aug 2025,36,Evan Fundburg,ewf
+1,19 Aug 2025,37,Aden Von Vorhis,
+1,19 Aug 2025,38,Bea Shillington,bdshilli
+1,19 Aug 2025,39,Meara Cox,mearacox
+1,19 Aug 2025,40,Yamuna Bobbala,ybobbala
+1,19 Aug 2025,41,Matthew Arinolds,arinolds
+1,19 Aug 2025,42,Grace Wohlwinder,
+1,19 Aug 2025,43,Sara Shree Muthuselvam,
+1,19 Aug 2025,44,Supranee Pongeeradach,
+21,2025-10-30,1,Eli Hatcher,kh155
+21,2025-10-30,2,Thomas Davis,trd7
+21,2025-10-30,3,Pedro Fischetti,pedrof
+21,2025-10-30,4,Nathan Nicodin,nnicodin
+21,2025-10-30,5,Tyler Kurath,tkurath
+21,2025-10-30,6,Jacob Robertson,jmr40
+21,2025-10-30,7,Ben Shillington,bdshilli
+21,2025-10-30,8,Cody Miller,codyam
+21,2025-10-30,9,Meara Cox,mccox
+21,2025-10-30,10,Dustin McDowell,dm99
+21,2025-10-30,11,Donovan Williams,dws8
+21,2025-10-30,12,Luke Peter,mp79
+21,2025-10-30,13,Drew Dabe,ddabe
+21,2025-10-30,14,Aashish Jayaprasan,aashish
+21,2025-10-30,15,Sai Teja,spaladi
+21,2025-10-30,16,Evan Fundeburg,euf
+21,2025-10-30,17,Ritvik Neematbil,neemattb
+21,2025-10-30,18,Aidan Van Voorhis,vanvoora
+21,2025-10-30,19,Grace Wohlwinder,wohlwins
+21,2025-10-30,20,Ardoine Docteur,adocteur
+21,2025-10-30,21,Jiaxuan Zhang,jiaxuanz
+21,2025-10-30,22,Shruti Jadhav,ssjadhav
+20,28 Oct 2025,1,Eli Hatcher,kh155
+20,28 Oct 2025,2,Evan Fundeburg,ewf
+20,28 Oct 2025,3,Justin Mateo,jmateo03
+20,28 Oct 2025,4,Yamuna Bobbala,ybobbala
+20,28 Oct 2025,5,Sai Deja,spaladi
+20,28 Oct 2025,6,Shruti Jadhav,ssjadhav
+20,28 Oct 2025,7,Trevor La,tl26
+20,28 Oct 2025,8,Jacob Robertson,jmr40
+20,28 Oct 2025,9,Luke Peter,mp79
+20,28 Oct 2025,10,Donovan Williams,dws8
+20,28 Oct 2025,11,Charlie Gorman,gormanct
+20,28 Oct 2025,12,Drew Dabe,ddabe
+20,28 Oct 2025,13,Pedro Fischetti,pedrof
+20,28 Oct 2025,14,Tylor Krarth,tkrarth
+20,28 Oct 2025,15,Nathan Nicodin,nnicodin
+20,28 Oct 2025,16,Jiaxuan Zhang,jiaxuan3
+20,28 Oct 2025,17,Lily Lamb,lrlamb
+20,28 Oct 2025,18,Meara Cox,mccox
+20,28 Oct 2025,19,Cody Miller,codyam
+20,28 Oct 2025,20,Joshua Arega,jarega
+20,28 Oct 2025,21,Ardoine Docteur,adocteur
+20,28 Oct 2025,22,Joseph Vann,jrvann
+20,28 Oct 2025,23,David Dinh,dd26
+20,28 Oct 2025,24,Aashish Jayapuman,aashish
+20,28 Oct 2025,25,Dustin McDowell,dm99
+16,14 Oct 2025,1,Grace Wohlwinder,wohlwins
+16,14 Oct 2025,2,Eli Hatcher,kh155
+16,14 Oct 2025,3,Yamuna Bobbala,ybobbala
+16,14 Oct 2025,4,James Tabakian,tabakian
+16,14 Oct 2025,5,Evan Fundeburg,ewf
+16,14 Oct 2025,6,Sai deja,spaladi
+16,14 Oct 2025,7,Trevor La,tl26
+16,14 Oct 2025,8,Jacob Robertson,jmr40
+16,14 Oct 2025,9,Luke Peter,mp79
+16,14 Oct 2025,10,Charlie Gorman,gormanc
+16,14 Oct 2025,11,Drew Dabe,ddabe
+16,14 Oct 2025,12,Nathan Nicodin,nnicodin
+16,14 Oct 2025,13,Ben Shillington,bdshilli
+16,14 Oct 2025,14,Lily Lamb,lrlamb
+16,14 Oct 2025,15,Tyler Krarth,tkrarth
+16,14 Oct 2025,16,Shruti Jadhav,ssjadhav
+16,14 Oct 2025,17,Joseph Vann,jrvann
+16,14 Oct 2025,18,Meara Cox,mccox
+16,14 Oct 2025,19,Cody Miller,codyam
+16,14 Oct 2025,20,Ardoine Docteur,adocteur
+16,14 Oct 2025,21,Patrick Bailey,pab6
+16,14 Oct 2025,22,Ash Jacobson,ashji
+16,14 Oct 2025,23,Dustin McDowell,dm99
+16,14 Oct 2025,24,Donovan Williams,dws8
+16,14 Oct 2025,25,Thomas Davis,trd7
+16,14 Oct 2025,26,Aashish Jayaprawan,aashish
+16,14 Oct 2025,27,Pedro Fischetti,pedrof
+16,14 Oct 2025,28,Lea Frost,lkfrost
+27,20 Nov 2025,1,Dustin McDowell,dm99
+27,20 Nov 2025,2,Nathan Nicodin,nnicodin
+27,20 Nov 2025,3,Trevor La,h26
+27,20 Nov 2025,4,Jiaxuan Zhang,jiaxuanz
+27,20 Nov 2025,5,Charlotte Baker,crb27
+27,20 Nov 2025,6,Eli Hatcher,kh155
+27,20 Nov 2025,7,Yamuna Bobbala,ybobbala
+27,20 Nov 2025,8,Luke Peter,mp79
+27,20 Nov 2025,9,Drew Dabe,ddabe
+27,20 Nov 2025,10,Cody Miller,codyam
+27,20 Nov 2025,11,Aashish Jayapursam,aashish
+27,20 Nov 2025,12,Sai Teja,spaladi
+27,20 Nov 2025,13,Lea Frost,lkfrost
+27,20 Nov 2025,14,Tyler Korth,tkorth
+11,28 Sep 2025,1,Eli Hatcher,kh155
+11,28 Sep 2025,2,Evan Fundburg,ewf
+11,28 Sep 2025,3,Ritvik Neemblit,neemblit
+11,28 Sep 2025,4,Divyachamun Swain,dswain6
+11,28 Sep 2025,5,Will Thacher,wthacher
+11,28 Sep 2025,6,Ash Jacobson,ashj
+11,28 Sep 2025,7,Aashish Jayapoorwan,aashishj
+11,28 Sep 2025,8,Donovan Williams,dws58
+11,28 Sep 2025,9,Sai Deja,spaladi
+11,28 Sep 2025,10,Devar Ravenell,devarc
+11,28 Sep 2025,11,Andrew Lim,csalim
+11,28 Sep 2025,12,Yamuna Bobbala,ybobbala
+11,28 Sep 2025,13,Gavin Orme,gorme
+11,28 Sep 2025,14,Luke Peter,mp79
+11,28 Sep 2025,15,Charlie Gorman,gormanc
+11,28 Sep 2025,16,Jacob Robertson,jmr40
+11,28 Sep 2025,17,Trevor Lu,tl26
+11,28 Sep 2025,18,Shruti Jadhav,ssjadhav
+11,28 Sep 2025,19,Jiaxuan Zhang,jiaxuan23
+11,28 Sep 2025,20,Grace Wohlwinder,wohlwims
+11,28 Sep 2025,21,Kyle Hix,khix
+11,28 Sep 2025,22,Bea Shillington,bdshilli
+11,28 Sep 2025,23,Nathan Nicodin,nnicodin
+11,28 Sep 2025,24,Drew Dable,drewdable
+11,28 Sep 2025,28,Lily Lamb,llamb
+11,28 Sep 2025,29,Suprawee Pongeeradach,suprawee
+11,28 Sep 2025,30,Cody Miller,codyam
+11,28 Sep 2025,31,Thomas Davis,td7
+11,28 Sep 2025,32,Joseph Vann,rvann
+11,28 Sep 2025,33,Dustin McDowell,dm99
+11,28 Sep 2025,34,James Tabacilan,jtabacilan
+11,28 Sep 2025,35,Meara Cox,mccox
+11,28 Sep 2025,36,Justin Mateo,jsmateo
+11,28 Sep 2025,37,David Dinh,dd26
+11,28 Sep 2025,38,Lea Frost,lkfrost
+11,28 Sep 2025,39,Pedro Fischetti,petrof
+11,28 Sep 2025,40,Aden Von Vorhis,vonvorhis
+11,28 Sep 2025,41,Camron Martin,camronm
+11,28 Sep 2025,42,Ardoine Docteur,adocteur
+7,9 Sep 2025,1,Eli Hatcher,kh155
+7,9 Sep 2025,2,Aashish Jayapoorwan,aashishj
+7,9 Sep 2025,3,Divyachamun Swain,dswain6
+7,9 Sep 2025,4,Suprawee Pongeeradach,suprawee
+7,9 Sep 2025,5,Yamuna Bobbala,ybobbala
+7,9 Sep 2025,6,Evan Fundburg,ewf
+7,9 Sep 2025,7,Andrew Lim,csalim
+7,9 Sep 2025,8,James Tabacilan,jtabacilan
+7,9 Sep 2025,9,Dustin McDowell,dm99
+7,9 Sep 2025,10,Ritvik Neemblit,neemblit
+7,9 Sep 2025,11,Joshua Arega,jarega
+7,9 Sep 2025,12,Devar Ravenell,devarc
+7,9 Sep 2025,13,Jiaxuan Zhang,jiaxuan23
+7,9 Sep 2025,14,Will Thacher,wthacher
+7,9 Sep 2025,15,Aden Von Vorhis,vonvorhis
+7,9 Sep 2025,16,Donovan Williams,dws58
+7,9 Sep 2025,17,Gavin Orme,gorme
+7,9 Sep 2025,18,Charlie Gorman,gormanc
+7,9 Sep 2025,19,Luke Peter,mp79
+7,9 Sep 2025,20,Jacob Robertson,jmr40
+7,9 Sep 2025,21,Trevor Lu,tl26
+7,9 Sep 2025,22,Shruti Jadhav,ssjadhav
+7,9 Sep 2025,23,Bea Shillington,bdshilli
+7,9 Sep 2025,24,Steven Dindl,sdindl
+7,9 Sep 2025,25,Kyle Hix,khix
+7,9 Sep 2025,26,Drew Dable,drewdable
+7,9 Sep 2025,27,Pedro Fischetti,petrof
+7,9 Sep 2025,28,Trenton Braley,tbraley
+7,9 Sep 2025,29,Tylor North,tnorth
+7,9 Sep 2025,30,Nathan Nicodin,nnicodin
+7,9 Sep 2025,31,Grace Wohlwinder,wohlwims
+7,9 Sep 2025,32,Lily Lamb,llamb
+7,9 Sep 2025,33,Camron Martin,camronm
+7,9 Sep 2025,34,Ronald Rahenkamp,ronaldpr
+7,9 Sep 2025,35,Cody Miller,codyam
+7,9 Sep 2025,36,Sai Deja,spaladi
+7,9 Sep 2025,37,Joseph Vann,rvann
+7,9 Sep 2025,38,Meara Cox,mccox
+7,9 Sep 2025,39,Charlotte Baker,cbh27
+7,9 Sep 2025,40,Patrick Bailey,pab6
+7,9 Sep 2025,41,Ash Jacobson,ashj
+7,9 Sep 2025,42,Sara Muthuselvam,muthuses
+6,4 Sep 2025,1,Eli Hatcher,kh155
+6,4 Sep 2025,2,Aashish Jayapoorwan,aashishj
+6,4 Sep 2025,3,David Dinh,dd26
+6,4 Sep 2025,4,Andrew Lim,csalim
+6,4 Sep 2025,5,Yamuna Bobbala,ybobbala
+6,4 Sep 2025,6,Justin Mateo,jsmateo
+6,4 Sep 2025,7,Devar Ravenell,devarc
+6,4 Sep 2025,8,Divyachamun Swain,dswain6
+6,4 Sep 2025,9,Luke Peter,mp79
+6,4 Sep 2025,10,Gavin Orme,gorme
+6,4 Sep 2025,11,Donovan Williams,dws58
+6,4 Sep 2025,12,Ardoine Docteur,adocteur
+6,4 Sep 2025,13,Joshua Arega,jarega
+6,4 Sep 2025,14,Shruti Jadhav,ssjadhav
+6,4 Sep 2025,15,Trevor Lu,tl26
+6,4 Sep 2025,16,Lea Frost,lkfrost
+6,4 Sep 2025,17,Charlie Gorman,gormanc
+6,4 Sep 2025,18,Kyle Hix,khix
+6,4 Sep 2025,19,Steven Dindl,sdindl
+6,4 Sep 2025,20,Bea Shillington,bdshilli
+6,4 Sep 2025,21,Tylor North,tnorth
+6,4 Sep 2025,22,Patrick Bailey,pab6
+6,4 Sep 2025,23,Ash Jacobson,ashj
+6,4 Sep 2025,24,Lily Lamb,llamb
+6,4 Sep 2025,25,Thomas Davis,td7
+6,4 Sep 2025,26,James Tabacilan,jtabacilan
+6,4 Sep 2025,27,Cody Miller,codyam
+6,4 Sep 2025,28,Ronald Rahenkamp,ronaldpr
+6,4 Sep 2025,29,Joseph Vann,rvann
+6,4 Sep 2025,30,Meara Cox,mccox
+6,4 Sep 2025,31,Ritvik Neemblit,neemblit
+6,4 Sep 2025,32,Sara Muthuselvam,muthuses
+6,4 Sep 2025,33,Jiaxuan Zhang,jiaxuan23
+6,4 Sep 2025,34,Grace Wohlwinder,wohlwims
+6,4 Sep 2025,35,Evan Fundburg,ewf
+6,4 Sep 2025,36,Aden Von Vorhis,vonvorhis
+6,4 Sep 2025,37,Will Thacher,wthacher
+6,4 Sep 2025,38,Sai Deja,spaladi
+6,4 Sep 2025,39,Jacob Robertson,jmr40
+6,4 Sep 2025,40,Pedro Fischetti,petrof
+10,18 Sep 2025,1,Eli Hatcher,kh155
+10,18 Sep 2025,2,Aashish Jayapoorwan,aashishj
+10,18 Sep 2025,3,Will Thacher,wthacher
+10,18 Sep 2025,4,Evan Fundburg,ewf
+10,18 Sep 2025,5,Justin Mateo,jsmateo
+10,18 Sep 2025,6,Devar Ravenell,devarc
+10,18 Sep 2025,7,Joshua Arega,jarega
+10,18 Sep 2025,8,Dustin McDowell,dm99
+10,18 Sep 2025,9,Donovan Williams,dws58
+10,18 Sep 2025,10,Luke Peter,mp79
+10,18 Sep 2025,11,Gavin Orme,gorme
+10,18 Sep 2025,12,Yamuna Bobbala,ybobbala
+10,18 Sep 2025,13,Andrew Lim,csalim
+10,18 Sep 2025,14,Shruti Jadhav,ssjadhav
+10,18 Sep 2025,15,Jacob Robertson,jmr40
+10,18 Sep 2025,16,Lea Frost,lkfrost
+10,18 Sep 2025,17,Charlie Gorman,gormanc
+10,18 Sep 2025,18,Drew Dable,drewdable
+10,18 Sep 2025,19,Pedro Fischetti,petrof
+10,18 Sep 2025,20,Jiaxuan Zhang,jiaxuan23
+10,18 Sep 2025,21,Nathan Nicodin,nnicodin
+10,18 Sep 2025,22,Patrick Bailey,pab6
+10,18 Sep 2025,23,Ash Jacobson,ashj
+10,18 Sep 2025,28,Lily Lamb,llamb
+10,18 Sep 2025,29,Camron Martin,camronm
+10,18 Sep 2025,30,Sai Deja,spaladi
+10,18 Sep 2025,31,David Dinh,dd26
+10,18 Sep 2025,32,James Tabacilan,jtabacilan
+10,18 Sep 2025,33,Cody Miller,codyam
+10,18 Sep 2025,34,Aden Von Vorhis,vonvorhis
+10,18 Sep 2025,35,Ritvik Neemblit,neemblit
+26,18 Nov 2025,1,Eli Hatcher,kh155
+26,18 Nov 2025,2,Aashish Jayaprasan,aashish
+26,18 Nov 2025,3,Aidan Van Voorhis,vanvoorh
+26,18 Nov 2025,4,Ritvik Neerattil,neerattil
+26,18 Nov 2025,5,Will Thacker,wthacker
+26,18 Nov 2025,6,Evan Funderburg,ewf
+26,18 Nov 2025,7,Justin Mateo,jmateo03
+26,18 Nov 2025,8,Yamuna Bobbala,ybobbala
+26,18 Nov 2025,9,Trevor La,tl26
+26,18 Nov 2025,10,Jacob Robertson,jmr40
+26,18 Nov 2025,11,Luke Peter,mp79
+26,18 Nov 2025,12,Donovan Williams,dws8
+26,18 Nov 2025,13,Gavin Orme,gorme
+26,18 Nov 2025,14,Jiaxuan Zhang,jiaxuanz
+26,18 Nov 2025,15,Kiran Chhetri,
+26,18 Nov 2025,16,Charlie Gorman,gormanc8
+26,18 Nov 2025,17,Drew Dabe,ddabe
+26,18 Nov 2025,18,Kyle Hix,khix
+26,18 Nov 2025,19,Patrick Bailey,pab6
+26,18 Nov 2025,20,Nathan Nicodin,nnicodin
+26,18 Nov 2025,21,Tyler Knoth,tknoth
+26,18 Nov 2025,22,Trenton Braley,tbraley
+26,18 Nov 2025,23,Pedro Fischetti,pedrof
+26,18 Nov 2025,24,Steven Dindl,sdindl
+26,18 Nov 2025,25,Dustin McDowell,dm99
+26,18 Nov 2025,26,Grace Wohlwinder,wohlwins
+26,18 Nov 2025,27,Ben Shillington,bdshilli
+26,18 Nov 2025,28,Sara Muthuselvan,muthuses
+26,18 Nov 2025,29,Shruti Jadhav,ssjadhav
+26,18 Nov 2025,30,Divyashsanu Swain,swainsdr
+26,18 Nov 2025,31,Lea Frost,lkfrost
+26,18 Nov 2025,32,Sai Deja,spaladi
+26,18 Nov 2025,33,Ardoine Docteur,adocteur
+26,18 Nov 2025,34,Joshua Arega,jarega
